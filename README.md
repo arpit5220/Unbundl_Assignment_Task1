@@ -1,3 +1,4 @@
-## Unbundl_Assignment_Task1: Task 1: Create a Product Carousel for Featured Products
+## Unbundl_Assignment_Task1:
+## Task 1: Create a Product Carousel for Featured Products
 # Live Link
  https://main--earnest-pixie-33ec6b.netlify.app/
